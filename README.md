@@ -1,4 +1,4 @@
-# Sponsorware
+# 💰Sponsorware
 *Sponsorware is a release strategy for open-source software that enables developers to be compensated for their open-source work with fewer downsides than traditional open-source funding models.*
 
 ## How does it work?
